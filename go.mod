@@ -1,4 +1,4 @@
-module github.com/cowpaths/messageformat
+module github.com/wordsource/go-messageformat
 
 go 1.18
 
